@@ -298,9 +298,9 @@ implementing new features and new design patterns.
 From the beginning till now the project had survived a lot of modifications and new features   
 becoming more and more robust, dry and flexible.
 
-<small>Result implementing Composite:</small>  
+<small>Handling the auth:</small>  
 ![img.png](inventory-management-system/assets/img_3.png)  
-<small>Result implementing Decorator:</small>  
+<small>Products page:</small>  
 ![img.png](inventory-management-system/assets/img_4.png)  
 
 ----
